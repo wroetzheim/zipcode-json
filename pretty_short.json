@@ -1,0 +1,52 @@
+{
+    "zipcodes": [
+        {
+            "PutRequest":{
+                "Item": {
+                    "country code": {
+                        "S": "BM"
+                    },
+                    "postal code": {
+                        "S": "DV 01"
+                    },
+                    "place": {
+                        "S": "Devonshire"
+                    },
+                    "state": {
+                        "S": "Devonshire Parish"
+                    },
+                    "statecode": {
+                        "S": "1"
+                    },
+                    "province_or_county": {
+                        "S": "null"
+                    },
+                    "province_or_countycode": {
+                        "S": "null"
+                    },
+                    "community": {
+                        "S": "null"
+                    },
+                    "communitycode": {
+                        "S": "null"
+                    },
+                    "latitude": {
+                        "S": "32.3028"
+                    },
+                    "longitude": {
+                        "S": "-64.7558"
+                    },
+                    "accuracy": {
+                        "S": "null"
+                    },
+                    "Country": {
+                        "S": "Bermuda"
+                    },
+                    "Continent": {
+                        "S": "North America"
+                    }
+                }
+            }
+        }
+    ]
+}
